@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Post: Standard"
+title: "Post: 성찰일지"
 excerpt_separator: "<!--more-->"
 categories:
   - Post Formats
@@ -13,6 +13,7 @@ tags:
 <!--more-->
 
 한 학기 동안 배운 오픈소스 SW의 기초 과목에 대한 성찰일지입니다:)
+
 
 
 
