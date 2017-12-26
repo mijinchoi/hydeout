@@ -14,16 +14,6 @@ title: PLUG N GENIE CODE (CH22)
 
 {% endhighlight %}
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-### Gists via GitHub Pages
-
-Vestibulum id ligula porta felis euismod semper. Nullam quis risus eget urna mollis ornare vel eu leo. Donec sed odio dui.
-
-{% gist 5555251 gist.md %}
-
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec sed odio dui. Vestibulum id ligula porta felis euismod semper.
-
 ### Images
 
 Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
@@ -36,4 +26,4 @@ Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliqua
 
 -----
 
-Want to see something else added? <a href="https://github.com/mijinchoi/ch-22/blob/master/yeah%20(1).py">Open an issue.</a>
+전체 코드가 보고싶다면? <a href="https://github.com/mijinchoi/ch-22/blob/master/yeah%20(1).py">.</a>
