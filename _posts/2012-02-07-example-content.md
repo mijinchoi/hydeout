@@ -11,7 +11,12 @@ title: PLUG N GENIE CODE (CH22)
 ### Code
 
 {% highlight js %}
-
+import time
+import smbus
+import RPi.GPIO as GPIO
+import os
+import vlc
+...
 {% endhighlight %}
 
 ### Images
