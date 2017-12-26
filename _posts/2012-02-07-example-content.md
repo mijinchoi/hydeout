@@ -26,4 +26,4 @@ Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliqua
 
 -----
 
-전체 코드가 보고싶다면? <a href="https://github.com/mijinchoi/ch-22/blob/master/yeah%20(1).py">.</a>
+전체 코드가 보고싶다면? <a href="https://github.com/mijinchoi/ch-22/blob/master/yeah%20(1).py">.Click Here</a>
