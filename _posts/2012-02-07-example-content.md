@@ -10,8 +10,6 @@ title: PLUG N GENIE CODE (CH22)
 
 ### Code
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
 {% highlight js %}
 
 {% endhighlight %}
@@ -38,4 +36,4 @@ Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliqua
 
 -----
 
-Want to see something else added? <a href="https://github.com/poole/poole/issues/new">Open an issue.</a>
+Want to see something else added? <a href="https://github.com/mijinchoi/ch-22/blob/master/yeah%20(1).py">Open an issue.</a>
