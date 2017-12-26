@@ -1,6 +1,6 @@
 ---
 layout: category
-title: MESSAGE
+title: Message
 ---
 
 <p class="message">
@@ -14,7 +14,7 @@ title: MESSAGE
 
 * Code
 * Production
-  1. Photos
+  1. Photos(yet)
   2. Videos
     * teaser
     * test1
