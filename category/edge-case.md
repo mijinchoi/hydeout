@@ -1,27 +1,23 @@
 ---
 layout: category
-title: Edge Case
+title: MESSAGE
 ---
 
-Sample category page. You need to create a page for each category.
-The category is inferred from the title of the page, but you can also
-specify it with the `category` attribute in the front matter.
+<p class="message">
+  CH22팀의 '플러그엔지니'가 나오기까지 많은 일들이 있었습니다. 
+이 홈페이지에서 그 과정을 살짝 엿볼 수 있습니다.
+</p>
 
-```md
----
-layout: category
-title: My Category
----
-```
 
-Or ...
+## Behind PlugNgenie
+플러그엔지니의 비하인드 스토리
 
-```md
----
-layout: category
-title: Fancy Title
-category: My Category
----
-```
-
-Posts get listed below here.
+* Code
+* Production
+  1. Photos
+  2. Videos
+    * teaser
+    * test1
+    * test2
+    * making
+* Story
