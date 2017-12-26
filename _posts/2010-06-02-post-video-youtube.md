@@ -28,4 +28,4 @@ Simply wrap embeds with a `<div>` element and the appropriate classes:
 
 This posts YouTube video.
 
-다른 비디오도 보러 가세요! <a href="https://www.youtube.com/channel/UC8uTzRdPnRTrs93HmtwWHjw">Click Here</a>
+CH22.youtube! <a href="https://www.youtube.com/channel/UC8uTzRdPnRTrs93HmtwWHjw">Click Here</a>
